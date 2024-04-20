@@ -1,9 +1,23 @@
-# *Current version: 0.0.2*
+# *Current version: 1.0.0*
 
 Record all changes made into this CHANGELOG.
 
+### 1.0.0 (20-04-2024)
 
-### 0.0.2(20-04-2024)
+---
+
+**Added:**
+
+* Configuration for API service
+* Unit tests
+
+**Updated:**
+
+* Updated README
+* Release v1
+
+
+### 0.0.2 (20-04-2024)
 
 ---
 
@@ -13,7 +27,7 @@ Record all changes made into this CHANGELOG.
 * Mock API values return from service
 * Location dto created for api location responses
 
-### 0.0.1(20-04-2024)
+### 0.0.1 (20-04-2024)
 
 ---
 
