@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> {
   }
 
   // Method to load states based on selected country
-  void _loadStates(String? countryId) async {
+  void _loadStates(int? countryId) async {
     if (countryId == null) {
       return;
     }
