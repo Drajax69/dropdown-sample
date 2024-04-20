@@ -1,6 +1,6 @@
 # Dropdown Sample
 
-#### Current Version: 0.0.1
+#### Current Version: 0.0.2
 
 Creates a two dropdowns where a user can choose the country and state they live in by calling an API presented by the ``Social Discovery Group``
 
